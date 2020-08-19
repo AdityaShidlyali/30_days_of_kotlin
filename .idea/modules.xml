@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" filepath="$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" filepath="$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" />
       <module fileurl="file://$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" filepath="$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
 </project>
