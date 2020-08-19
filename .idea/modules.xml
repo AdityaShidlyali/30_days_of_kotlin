@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11_if_else_expression/11_if_else_expression.iml" filepath="$PROJECT_DIR$/11_if_else_expression/11_if_else_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_when_as_expression/12_when_as_expression.iml" filepath="$PROJECT_DIR$/12_when_as_expression/12_when_as_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_for_loop/13_for_loop.iml" filepath="$PROJECT_DIR$/13_for_loop/13_for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_while_loop/14_while_loop.iml" filepath="$PROJECT_DIR$/14_while_loop/14_while_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_do_while_loop/15_do_while_loop.iml" filepath="$PROJECT_DIR$/15_do_while_loop/15_do_while_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_break_with_labelled_for_loop/16_break_with_labelled_for_loop.iml" filepath="$PROJECT_DIR$/16_break_with_labelled_for_loop/16_break_with_labelled_for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_kotlin_continue_with_labelled_for_loop/17_kotlin_continue_with_labelled_for_loop.iml" filepath="$PROJECT_DIR$/17_kotlin_continue_with_labelled_for_loop/17_kotlin_continue_with_labelled_for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_hello_world/1_hello_world.iml" filepath="$PROJECT_DIR$/1_hello_world/1_hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_comments_in_kotlin/2_comments_in_kotlin.iml" filepath="$PROJECT_DIR$/2_comments_in_kotlin/2_comments_in_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_days_of_kotlin.iml" filepath="$PROJECT_DIR$/30_days_of_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_variables/3_variables.iml" filepath="$PROJECT_DIR$/3_variables/3_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_functions/4_functions.iml" filepath="$PROJECT_DIR$/4_functions/4_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_class/5_class.iml" filepath="$PROJECT_DIR$/5_class/5_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" filepath="$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" filepath="$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" filepath="$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" filepath="$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" />
+    </modules>
+  </component>
+</project>
