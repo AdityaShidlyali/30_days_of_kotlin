@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/15_do_while_loop/15_do_while_loop.iml" filepath="$PROJECT_DIR$/15_do_while_loop/15_do_while_loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_break_with_labelled_for_loop/16_break_with_labelled_for_loop.iml" filepath="$PROJECT_DIR$/16_break_with_labelled_for_loop/16_break_with_labelled_for_loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_kotlin_continue_with_labelled_for_loop/17_kotlin_continue_with_labelled_for_loop.iml" filepath="$PROJECT_DIR$/17_kotlin_continue_with_labelled_for_loop/17_kotlin_continue_with_labelled_for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_functions_as_expression/18_functions_as_expression.iml" filepath="$PROJECT_DIR$/18_functions_as_expression/18_functions_as_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_interoperability_with_java/19_interoperability_with_java.iml" filepath="$PROJECT_DIR$/19_interoperability_with_java/19_interoperability_with_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_hello_world/1_hello_world.iml" filepath="$PROJECT_DIR$/1_hello_world/1_hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_comments_in_kotlin/2_comments_in_kotlin.iml" filepath="$PROJECT_DIR$/2_comments_in_kotlin/2_comments_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/30_days_of_kotlin.iml" filepath="$PROJECT_DIR$/30_days_of_kotlin.iml" />
