@@ -5,7 +5,7 @@ class class_name {
 }
 
 // The following is the class constructor
-class class_name (variable: datatype) {
+class class_name (variable: type) {
     init {
         // to initialise the class variables
     }
@@ -25,16 +25,17 @@ For Primary Constructors there are :
 fun main() {
     // To instantiate the class we use :
     // var or val(val is preferred) objectName = class_name()
-    val o = Student()
-    o.name = "Aditya Shidlyali"
+    val o = Student("Aditya Shidlyali")
     println("Name is : ${o.name}")
 }
 
-class Student {
+class Student constructor(name: String) {
     var name: String = ""
 
     init {
         // This block will be executed as soon as we instantiate the class
+        this.name = name
+
         println("The name in init block is : $name")
     }
 }
