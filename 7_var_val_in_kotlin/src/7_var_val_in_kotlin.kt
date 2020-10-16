@@ -27,13 +27,13 @@ fun main(args: Array<String>) {
 
     /*
     * Difference Between var and val
-    * var is Mutable        val is Immutable
-    * using var the value   using val the value
-    * variable cannot be    of the variable can be
-    * changed               changed
+    * 1.var is Mutable      |  1. val is Immutable
+    * 2.using var the value |  2.using val the value
+    * variable cannot be    |  of the variable can be
+    * changed               |  changed
     * */
 
-    // Following statements are the demo on the datatypes
+    // Following statements are the demo on datatypes
     var isTrue: Boolean = true
     var byteValue: Byte = 20
     var charValue: Char = 'A'
