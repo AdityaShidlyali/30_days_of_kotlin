@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/4_functions/4_functions.iml" filepath="$PROJECT_DIR$/4_functions/4_functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_class/5_class.iml" filepath="$PROJECT_DIR$/5_class/5_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" filepath="$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" filepath="$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" filepath="$PROJECT_DIR$/7_var_val_in_kotlin/7_var_val_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" filepath="$PROJECT_DIR$/8_string_interpolation/8_string_interpolation.iml" />
       <module fileurl="file://$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" filepath="$PROJECT_DIR$/9_ranges_in_kotlin/9_ranges_in_kotlin.iml" />
