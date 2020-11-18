@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-fun main () {
+fun main() {
     // The following function returns the line read or null
     var a = readLine()
 

@@ -28,8 +28,7 @@ fun main() {
     name1 = "Aditya"
     println("The length of the name is ${name1?.length}")
     // in the output the actual length of the name string is printed
-
-
+    
     // 2. Safe Call with Let ( ?.let{} )
     // it executes its block if the value is not null
     val name2: String = "Aditya"

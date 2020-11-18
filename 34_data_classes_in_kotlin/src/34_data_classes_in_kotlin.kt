@@ -2,6 +2,10 @@
 * The data class in the Kotlin are made to deal with only the data of the class and not with object (irrespective of the object).
 * we can also override the data inside the data class with different objects.
 *
+* The data class can do the work for the following things:
+* 1. Every class need "toString" method to get the parameters of the constructor to return for the caller
+* 2. equals and hashcode - to compare the content of two methods are equal or not
+* 3. copy - to deepcopy the objects
 * Note: The constructor of the data class must contain only the propertied parameters(i.e. var or val).
 * */
 
@@ -25,6 +29,7 @@ fun main() {
     println()
 
     // Below function (copy()) creates copy of the object with the data too, and it is provided by the 'Any' class which is super class in Kotlin.
+    // the copy function can only be accessed for data classes and not for normal classes
     val o3 = o1.copy()
     if (o3 == o1) {
         println("The are equal")

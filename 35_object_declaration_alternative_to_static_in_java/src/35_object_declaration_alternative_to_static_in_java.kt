@@ -58,8 +58,12 @@ object Derived : Base2() {
 * Companion objects
 *
 * These are same like the objects but these are declared inside the class.
+*
+* By using companion objects the methods and variables inside the class can be accessed
+* without instantiating the class
+*
+* the JVMstatic annotation makes the interoperable with the java files
 * */
-
 class Base3 {
     companion object myCompanionObject {
         var id: Int = 20 // Behaves like a static variable

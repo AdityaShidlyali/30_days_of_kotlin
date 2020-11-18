@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/32_interface_in_kotlin/32_interface_in_kotlin.iml" filepath="$PROJECT_DIR$/32_interface_in_kotlin/32_interface_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/33_more_about_interface/33_more_about_interface.iml" filepath="$PROJECT_DIR$/33_more_about_interface/33_more_about_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/34_data_classes_in_kotlin/34_data_classes_in_kotlin.iml" filepath="$PROJECT_DIR$/34_data_classes_in_kotlin/34_data_classes_in_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35_anonymous_inner_class/35_anonymous_inner_class.iml" filepath="$PROJECT_DIR$/35_anonymous_inner_class/35_anonymous_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/35_object_declaration_alternative_to_static_in_java/35_object_declaration_alternative_to_static_in_java.iml" filepath="$PROJECT_DIR$/35_object_declaration_alternative_to_static_in_java/35_object_declaration_alternative_to_static_in_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/36_lambdas_and_higher_order_function/36_lambdas_and_higher_order_function.iml" filepath="$PROJECT_DIR$/36_lambdas_and_higher_order_function/36_lambdas_and_higher_order_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/37_(more_about)_lambdas_and_higher_order_function/37_(more_about)_lambdas_and_higher_order_function.iml" filepath="$PROJECT_DIR$/37_(more_about)_lambdas_and_higher_order_function/37_(more_about)_lambdas_and_higher_order_function.iml" />
@@ -48,6 +49,8 @@
       <module fileurl="file://$PROJECT_DIR$/48_lateinit_keyword_in_kotlin/48_lateinit_keyword_in_kotlin.iml" filepath="$PROJECT_DIR$/48_lateinit_keyword_in_kotlin/48_lateinit_keyword_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/49_lazy_keyword_and_lazy_initialisation_lateinit_vs_lazy/49_lazy_keyword_and_lazy_initialisation_lateinit_vs_lazy.iml" filepath="$PROJECT_DIR$/49_lazy_keyword_and_lazy_initialisation_lateinit_vs_lazy/49_lazy_keyword_and_lazy_initialisation_lateinit_vs_lazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_functions/4_functions.iml" filepath="$PROJECT_DIR$/4_functions/4_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50_factory_design_pattern_companion_object/50_factory_design_pattern_companion_object.iml" filepath="$PROJECT_DIR$/50_factory_design_pattern_companion_object/50_factory_design_pattern_companion_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51_backtick_as_escape_character_in_kotlin/51_backtick_as_escape_character_in_kotlin.iml" filepath="$PROJECT_DIR$/51_backtick_as_escape_character_in_kotlin/51_backtick_as_escape_character_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_class/5_class.iml" filepath="$PROJECT_DIR$/5_class/5_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" filepath="$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" filepath="$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" />

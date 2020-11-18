@@ -23,6 +23,7 @@ fun main(args: Array<String>) {
     * 6. Long     --  64 Bit
     * 7. Float    --  32 Bit
     * 8. Double   --  64 Bit
+    * 9. Unit     --  0 Bit (void)
     * */
 
     /*
