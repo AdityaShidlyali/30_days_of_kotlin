@@ -113,6 +113,19 @@ fun main() {
         println(age)
         age + 5
     }
+
+    /**
+     * Summary:
+     *
+     * with: If you want to operate on a non-null object.
+     * let: If you want to just execute lambda expression on a nullable object and avoid
+     *      NullPointerException.
+     * run: If you want to operate on a Nullable object, execute lambda expression and avoid
+     *      NullPointerException.
+     * apply: If you want to initialise or configure an object.
+     * also: If you want to do some additional object configuration or operations.
+     *
+     */
 }
 
 class Person {
