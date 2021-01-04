@@ -126,6 +126,7 @@ fun main() {
      * also: If you want to do some additional object configuration or operations.
      *
      */
+    30days of Kotlin learning
 }
 
 class Person {
