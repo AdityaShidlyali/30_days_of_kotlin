@@ -71,7 +71,7 @@ fun main() {
     // we can do the following thing
     myList.forEach({ t -> println(t) }) // we can use any variable name other than "t"
     // even there is better way to write it
-    myList.forEach({ println(it) })
+    myList.forEach({ println(it) })6
     // even the better way to print is using "::" (method reference operator)
     myList.forEach(::println)
     // and we can also mention the class name before the method referencing operator
