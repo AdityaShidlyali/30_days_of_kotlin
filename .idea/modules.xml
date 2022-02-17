@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/50_factory_design_pattern_companion_object/50_factory_design_pattern_companion_object.iml" filepath="$PROJECT_DIR$/50_factory_design_pattern_companion_object/50_factory_design_pattern_companion_object.iml" />
       <module fileurl="file://$PROJECT_DIR$/51_backtick_as_escape_character_in_kotlin/51_backtick_as_escape_character_in_kotlin.iml" filepath="$PROJECT_DIR$/51_backtick_as_escape_character_in_kotlin/51_backtick_as_escape_character_in_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/52_scope_functions_in_kotlin/52_scope_functions_in_kotlin.iml" filepath="$PROJECT_DIR$/52_scope_functions_in_kotlin/52_scope_functions_in_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53_getters_and_setters/53_getters_and_setters.iml" filepath="$PROJECT_DIR$/53_getters_and_setters/53_getters_and_setters.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_class/5_class.iml" filepath="$PROJECT_DIR$/5_class/5_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" filepath="$PROJECT_DIR$/6_mutliple_classes/6_mutliple_classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" filepath="$PROJECT_DIR$/7_type_conversion/7_type_conversion.iml" />
