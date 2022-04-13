@@ -65,7 +65,7 @@ object Derived : Base2() {
 * the JVMstatic annotation makes the interoperable with the java files
 * */
 class Base3 {
-    companion object myCompanionObject {
+    companion object MyCompanionObject {
         var id: Int = 20 // Behaves like a static variable
 
         @JvmStatic // This annotation makes the following function static in the JVM compiler.
